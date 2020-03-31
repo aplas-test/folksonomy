@@ -22,7 +22,47 @@
       "months_to_renew_support": "36",
       "sme_email": "Willabella.Thorrington@memento.net.au",
       "vendor_phone": "+856 316 875 5040",
-      "investment_number": "215"
+      "investment_number": "215",
+      "integrations": [
+        {
+          "id": "int-134",
+          "name": "INT-134",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+          "sourceApplicationId": "folksonomy",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Fire and Forget",
+          "golive_date": "12/7/02",
+          "sme_name": "Adelice Passby",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "apassby2@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "7/4/17"
+        },
+        {
+          "id": "int-461",
+          "name": "INT-461",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue.",
+          "sourceApplicationId": "folksonomy",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#FFFF07",
+          "pattern": "File Delivery",
+          "golive_date": "13/5/03",
+          "sme_name": "Ramsey Tindle",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Testing",
+          "sme_email": "rtindlem@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "24/4/17"
+        }
+      ]
     }
   ]
 }
